@@ -2,6 +2,9 @@
 
 AstroDraft isn’t just another blog theme — it’s a blazing-fast, accessible, and developer-focused template built with modern best practices from the ground up.
 AstroDraft is a minimal, responsive, accessible and SEO-friendly Astro blog theme. This theme is designed and crafted based on
+
+Just DEMO live https://projectmahe.github.io/astrodraft/
+
 ## 🔥 Features
 
 - [x] type-safe markdown
